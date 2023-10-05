@@ -1,5 +1,5 @@
 #### Utilizando input (interação com cliente)
-nome = input ('Qual seu nome puta? ')
+nome = input ('Qual seu nome aluno? ')
 print (f'o seu nome é {nome=}')
 
 n1 = int(input('digite um numero : '))

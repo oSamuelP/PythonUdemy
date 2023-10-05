@@ -4,7 +4,7 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 "Seu nome é normal"; maior que 6 escreva "Seu nome é muito grande". 
 """
 
-name = input ('Escreva seu nome puta ')
+name = input ('Escreva seu nome  ')
 tamanho_nome = len(name)
 
 if tamanho_nome >= 1:
@@ -15,4 +15,4 @@ if tamanho_nome >= 1:
     else:
         print('Seu nome é grande demais')
 else:
-    ('digite mais de uma letra puta')
+    ('digite mais de uma letra')

@@ -1,4 +1,4 @@
 # Quebra de linha sep
-print('Ola puta !', sep='-')
-print('Ola puta !', sep='-')
-print ('Pedrin poca pika', sep='-')
+print('Ola aluno !', sep='-')
+print('Ola aluno !', sep='-')
+print ('Pedrinho', sep='-')

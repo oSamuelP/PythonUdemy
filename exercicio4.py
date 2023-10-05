@@ -2,7 +2,7 @@
 ##Iterando strings com while
 
 
-nome = input ('Digite seu nome puta ')  # Iteráveis
+nome = input ('Digite seu nome aluno ')  # Iteráveis
 
 indice = 0
 novo_nome = ''
