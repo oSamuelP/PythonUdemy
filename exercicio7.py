@@ -16,7 +16,7 @@ usuário.
 """
 import os
 
-palavra_secreta = 'cuzin'
+palavra_secreta = 'Brasil'
 letras_acertadas = ''
 numero_tentativas = 0
 
