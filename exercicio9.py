@@ -35,7 +35,7 @@ while True:
         os.system('cls')
 
         if len(lista) == 0:
-            print('Nada para listar')
+            print('Nenhum item na lista')
 
         for i, Produto in enumerate(lista):
             print(i, Produto)
