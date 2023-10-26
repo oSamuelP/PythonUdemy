@@ -1,4 +1,4 @@
-nome = 'Samuka'
+nome = 'Samuel'
 altura = 1.95
 peso = 125
 imc = peso / (altura * altura) #IMC Peso / (altura * altura)
