@@ -11,8 +11,8 @@ salas = [
     # 0       1       2
     ['Luiz', 'João', 'Eduarda', ],  # 2
 ]
-#p, b, *_, ap, u = lista #desempacotamento utilizando variaveis para receber o valor da lista
-#print(p, u, ap) #solicitando motrar o valor atribuido a variavel
+p, b, *_, ap, u = lista #desempacotamento utilizando variaveis para receber o valor da lista
+print(p, u, ap) #solicitando motrar o valor atribuido a variavel
 
 # print('Maria', 'Helena', 1, 2, 3, 'Eduarda')
 # print(*lista)
