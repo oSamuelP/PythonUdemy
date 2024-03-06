@@ -24,7 +24,7 @@ for _ in range(100):
     contador_regressivo_2 = 11
 
     resultado_digito_2 = 0
-    for digito in dez_digitos:
+    for digito in dez_digitos: 
         resultado_digito_2 += int(digito) * contador_regressivo_2
         contador_regressivo_2 -= 1
     digito_2 = (resultado_digito_2 * 10) % 11
