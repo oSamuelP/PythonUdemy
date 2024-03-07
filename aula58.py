@@ -11,7 +11,7 @@ x = 1
 
 
 def escopo():
-    global x
+    global x #definindo valor de x de forma global
     x = 10
 
     def outra_funcao():
